@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="sao">
+        <item>@drawable/sao_1</item>
+        <item>@drawable/sao_2</item>
+        <item>@drawable/sao_3</item>
+        <item>@drawable/sao_4</item>
+        <item>@drawable/sao_5</item>
+        <item>@drawable/sao_6</item>
+        <item>@drawable/sao_7</item>
+        <item>@drawable/sao_8</item>
+        <item>@drawable/sao_9</item>
+        <item>@drawable/sao_10</item>
+    </array>
+
+</resources>
